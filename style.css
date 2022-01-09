@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+.gog{
+   background-color: skyblue;
+text-decoration: none;
+border-radius: 5px;
+}
+header{
+    color: darkblue;
+border: 5px solid  blue;
+border-radius: 15px;
+padding: 10px;
+font-size: 20px ;
+}
+h1 {
+    animation: reverse;
+ text-align:center ;
+ color:crimson;
+border: 20px solid cyan;
+} 
+footer{
+    border: 6px solid fuchsia;
+    border-radius: 11px;
+}
+footer p {
+    color: slateblue;
+
+     background-color: rgb(204, 191, 209);
+} 
+nav a{
+    margin: 53px;
+    border: 1px solid purple;
+    background-color: rgb(176, 185, 236);
+    text-decoration: none; 
+}
+.fredde{
+border: 4px solid plum;
+color:bisque;
+border-radius: 17px;
+background-color: rosybrown;
+}
+.bonn{
+    border: 2px solid darkorchid;
+    border-radius: 12px ;
+}
+.goldf{
+    color: deepskyblue;
+    border: 2px  solid dodgerblue;
+}
+.goldb{
+    color: deepskyblue;
+    border: 2px solid darkturquoise;
+}
